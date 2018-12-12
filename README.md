@@ -4,11 +4,11 @@
 
 * Install dependencies: 
   ```bash
-  yarn install
+  npm install
   ```
 * Start 
   ```bash
-  yarn start
+  npm run start
   ```
 ##### Provides
 * React
