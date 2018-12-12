@@ -1,6 +1,6 @@
 ## React - Redux - Saga Boilerplate
 
-#####Run application
+##### Run application
 
 * Install dependencies: 
   ```bash
@@ -10,16 +10,16 @@
   ```bash
   yarn start
   ```
-#####Provides
+##### Provides
 * React
 * React-router
 * Sass
 * Redux-Saga middleware
 * Eslint
 
-##Folder structure
+## Folder structure
 For small projects use the current structure (function-first). On bigger projects use [feature-first](https://medium.freecodecamp.org/scaling-your-redux-app-with-ducks-6115955638be)
 
-##Useful Resources
+## Useful Resources
 * React-redux: [Link](https://medium.com/mofed/react-redux-architecture-overview-7b3e52004b6e)
 * Generator functions vs async/await: [Link](http://thecodebarbarian.com/redux-saga-vs-async-await)
